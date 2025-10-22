@@ -1,0 +1,1 @@
+# Spondylits-Detection-Using-AI-using-MRI-images
